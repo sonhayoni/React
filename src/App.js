@@ -1,12 +1,12 @@
 import React from 'react';
-import Sweetalert2Basic from './R056_Sweetalert2Basic'
+import Sweetalert2Confirm from './R058_Sweetalert2Confirm'
 import 'bootstrap/dist/css/bootstrap.css'
 
 function App() {
   return (
     <div>
       <h1>Start React</h1>
-      <Sweetalert2Basic />
+      <Sweetalert2Confirm />
     </div>
   );
 }
