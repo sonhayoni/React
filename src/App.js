@@ -1,12 +1,12 @@
 import React from 'react';
-import Sweetalert2Position from './R057_Sweetalert2Position'
+import FetchGet from './R059_FetchGet'
 import 'bootstrap/dist/css/bootstrap.css'
 
 function App() {
   return (
     <div>
       <h1>Start React</h1>
-      <Sweetalert2Position />
+      <FetchGet />
     </div>
   );
 }
