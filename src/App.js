@@ -1,12 +1,12 @@
 import React from 'react';
-import FetchPost from './R060_FetchPost'
-import 'bootstrap/dist/css/bootstrap.css'
+import AxiosGet from './R061_AxiosGet'
+
 
 function App() {
   return (
     <div>
       <h1>Start React</h1>
-      <FetchPost />
+      <AxiosGet />
     </div>
   );
 }
