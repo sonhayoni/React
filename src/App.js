@@ -1,12 +1,12 @@
 import React from 'react';
-import Promise from './R065_Promise'
+import ReactChange from './R067_onChange'
 
 
 function App() {
   return (
     <div>
       <h1>Start React</h1>
-      <Promise />
+      <ReactChange />
     </div>
   );
 }
