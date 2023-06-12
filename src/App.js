@@ -1,12 +1,12 @@
 import React from 'react';
-import ReactMouseMove from './R068_onMouseMove'
+import ReactMouseOver from './R069_onMouseOver'
 
 
 function App() {
   return (
     <div>
       <h1>Start React</h1>
-      <ReactMouseMove />
+      <ReactMouseOver />
     </div>
   );
 }
