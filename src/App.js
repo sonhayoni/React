@@ -1,12 +1,12 @@
 import React from 'react';
-import Currying from './R074_ReactCurrying'
+import ReactHoc from './R075_ReactHoc'
 
 
 function App() {
   return (
     <div>
       <h1>Start React</h1>
-      <Currying />
+      <ReactHoc name='React200' />
     </div>
   );
 }
