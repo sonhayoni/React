@@ -1,12 +1,12 @@
 import React from 'react';
-import ReactMouseOver from './R069_onMouseOver'
+import ReactonSubmit from './R072_onSubmit'
 
 
 function App() {
   return (
     <div>
       <h1>Start React</h1>
-      <ReactMouseOver />
+      <ReactonSubmit />
     </div>
   );
 }
