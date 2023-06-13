@@ -1,11 +1,11 @@
 import React from 'react';
-import CookieSave from './R85_cookieSave'
+import CookieLoad from './R86_cookieLoad'
 
 function App() {
   return (
     <div>
       <h1>Start React 200</h1>
-      <CookieSave />
+      <CookieLoad />
     </div>
   );
 }
